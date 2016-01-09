@@ -1,6 +1,6 @@
 # Skyss CLI
 
-[![Build status](https://img.shields.io/wercker/ci/567f216a1e29124443152a2e.svg "Build status")](https://app.wercker.com/project/bykey/2e67fadd89cd086636c37bdfccdb0e96)
+[![Build status](https://img.shields.io/wercker/ci/5691853d7f7cfb3f2b07b9c4.svg "Build status")](https://app.wercker.com/project/bykey/8bd078fe59226ec4c1243617082ada3f)
 [![NPM downloads](https://img.shields.io/npm/dm/skyss-cli.svg "NPM downloads")](https://www.npmjs.com/package/skyss-cli)
 [![NPM version](https://img.shields.io/npm/v/skyss-cli.svg "NPM version")](https://www.npmjs.com/package/skyss-cli)
 [![Node version](https://img.shields.io/node/v/skyss-cli.svg "Node version")](https://www.npmjs.com/package/skyss-cli)
