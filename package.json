@@ -1,0 +1,43 @@
+{
+  "name": "skyss-cli",
+  "version": null,
+  "description": "Command line client for interacting with stops and routes from Skyss.no APIs",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "lint": "eslint index.js",
+    "semantic-release": "semantic-release",
+    "start": "./index.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Starefossen/skyss-cli.git"
+  },
+  "keywords": [
+    "skyss",
+    "skyss.no",
+    "API",
+    "Travel",
+    "Route"
+  ],
+  "author": "Hans Kristian Flaatten <hans@starefossen.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Starefossen/skyss-cli/issues"
+  },
+  "homepage": "https://github.com/Starefossen/skyss-cli#readme",
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "nomnom": "^1.8.1",
+    "skyss": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^3.1.0",
+    "semantic-release": "^4.3.5"
+  }
+}
